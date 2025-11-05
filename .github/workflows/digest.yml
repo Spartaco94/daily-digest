@@ -1,5 +1,9 @@
 name: Build Substack Daily Digest
 
+permissions:
+  contents: write
+
+
 on:
   schedule:
     # 18:00 UTC ≈ 19:00 Rome (inverno). Aggiusta se serve.
