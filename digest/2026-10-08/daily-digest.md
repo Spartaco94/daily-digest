@@ -1,0 +1,41 @@
+# 7-in-7 Daily Digest — 2026-10-08
+
+A curated selection of today’s 7 posts across my blogs. Skim the summaries, click to read in full.
+
+### [New Insect Species from Dinosaur Age Discovered in 99-Million-Year-Old Amber](https://petcareinspo.blogspot.com/2026/10/new-insect-species-from-dinosaur-age.html) — _Petcareinspo_
+A remarkable discovery has emerged from deep within ancient amber, shedding light on the tiny creatures that coexisted with dinosaurs nearly 99 million years ago. Researchers have identified a new insect species, named Cretodorus noonoo or "Noo-Noo," preserved in fossilized tree resin. This findi…
+
+
+### [How Dual-SIM and Multi-Profile eSIMs Simplify Work Travel Connectivity](https://nomadvibesboard.blogspot.com/2026/10/how-dual-sim-and-multi-profile-esims.html) — _Nomadvibesboard_
+For business travelers and remote workers, staying connected without juggling multiple physical SIM cards is a growing priority. The rise of dual-SIM and multi-profile eSIM technology offers an elegant solution by allowing phones to maintain a “home” line alongside local or travel data profiles. …
+
+
+### [Bitcoin Dips Below $84K Triggering $550M in Crypto Liquidations](https://cryptoradarboard.blogspot.com/2026/10/bitcoin-dips-below-84k-triggering-550m.html) — _Cryptoradarboard_
+Bitcoin’s price dipped below $84,000 on October 7, 2026, triggering more than $550 million in liquidations across the cryptocurrency sector. This sharp move came amid unusual leveraged short positions appearing on the Hyperliquid exchange, raising concerns about volatility and market dynamics. Fo…
+
+
+### [TechCrunch Disrupt 2026: Full Interactive Roundtable Lineup and Discounts](https://techtrendspins.blogspot.com/2026/10/techcrunch-disrupt-2026-full.html) — _Techtrendspins_
+TechCrunch Disrupt 2026 is set to gather over 10,000 founders, investors, and tech leaders from October 13-15 at San Francisco’s Moscone West. A standout feature this year is the extensive lineup of interactive roundtables, offering attendees a hands-on opportunity to explore pressing topics such…
+
+
+### [What Are Superfoods and Which 12 Nutrient-Dense Foods Experts Recommend?](https://healthyeatsboard.blogspot.com/2026/10/what-are-superfoods-and-which-12.html) — _Healthyeatsboard_
+“Superfoods” enjoy huge popularity in conversations about nutrition and wellness, often promising miraculous health benefits. But what exactly makes a superfood “super,” and can these foods truly help prevent disease or prolong life? According to a panel of nutrition experts, while many so-called…
+
+
+### [79 Best Movies of 2026 So Far and 28 Upcoming Must-Watch Films](https://fitnesshomejournal.blogspot.com/2026/10/79-best-movies-of-2026-so-far-and-28.html) — _Fitnesshomejournal_
+As we navigate the year 2026, the entertainment landscape continues to evolve with a remarkable lineup of films that may influence how we balance relaxation and wellness. For those committed to home fitness and sustainable well-being, understanding the interplay between leisure activities like mo…
+
+
+### [Clean Air Policies in London Improve Kids’ Lung Growth and Thinking Skills](https://greenplanetpins.blogspot.com/2026/10/clean-air-policies-in-london-improve.html) — _Greenplanetpins_
+New evidence shows that efforts to reduce air pollution in major cities are not only improving children’s lung health but could also be enhancing their cognitive development. Cleaner air policies implemented in urban centers like London and New York City appear to slow or even reverse damage caus…
+
+
+
+---
+
+**Enjoy my work?**  
+🎧 Audiobooks (YouTube): https://www.youtube.com/channel/UC6wt-XQUkZcXM92ii8g7ggw  
+🐦 X (Twitter): https://x.com/0_Simone_0  
+📸 Instagram: https://www.instagram.com/spartaco_94_/
+
+*Each blog publishes 1 new story per day. This digest packs the 7 best picks in ~7 minutes.*
