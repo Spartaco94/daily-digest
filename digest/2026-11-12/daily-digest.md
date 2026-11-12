@@ -2,32 +2,32 @@
 
 A curated selection of today’s 7 posts across my blogs. Skim the summaries, click to read in full.
 
-### [Cat Diabetes and Kidney Signs: What to Track at Home](https://petcareinspo.blogspot.com/2026/11/cat-diabetes-and-kidney-signs-what-to.html) — _Petcareinspo_
-Cats are skilled at coping with illness, which means the first signs of diabetes or kidney disease are easy to miss, even for vets. dvm360 recently covered how feline diabetes care has changed under the updated AAHA guidelines, and a separate dvm360 piece looked at what in-home monitoring can rev…
+### [Winter Dog Walks: Boots for Salted Sidewalks and Fun Routes](https://petcareinspo.blogspot.com/2026/11/winter-dog-walks-boots-for-salted.html) — _Petcareinspo_
+If your winter walks run along sidewalks treated with salt or ice melt, your dog's paws are taking the hit. According to Whole Dog Journal, boots with thick soles can help prevent chemical burns from walking on salted ice. The good news is that a cold-weather walk does not need to be long to be w…
 
 
-### [Long Stay in Peru or Central America? Read FCDO Advice First](https://nomadvibesboard.blogspot.com/2026/11/long-stay-in-peru-or-central-america.html) — _Nomadvibesboard_
-If you are a UK-based remote worker planning several months in Peru, Guatemala, Nicaragua or El Salvador, the UK Foreign, Commonwealth & Development Office (FCDO) pages for those countries are worth reading before you pay a deposit. According to the FCDO, your travel insurance could be invalidate…
+### [Andorra Residency and the Schengen 90/180 Rule: What Changes](https://nomadvibesboard.blogspot.com/2026/11/andorra-residency-and-schengen-90180.html) — _Nomadvibesboard_
+Andorra residency is about to come with a Schengen travel perk for non-EU nationals: up to 90 days in any 180 across the Schengen area, with no visa, no EES registration and no ETIAS. The catch for remote workers is that days spent in Andorra as a non-EU visitor will count towards that same 90-da…
 
 
-### [MEXC Cut Off From US Banks: How to Protect Your Funds](https://cryptoradarboard.blogspot.com/2026/11/mexc-cut-off-from-us-banks-how-to.html) — _Cryptoradarboard_
-The US Treasury has ordered American financial institutions to stop processing transfers to or from the crypto exchange MEXC Global. If you have an account there, or have used it in the past, the practical risk is that moving money in and out through US banks and similar channels may get harder. …
+### [Binance Hack: What Exchange Risk Means for Your Crypto](https://cryptoradarboard.blogspot.com/2026/11/binance-hack-what-exchange-risk-means.html) — _Cryptoradarboard_
+Attackers took about $6.43 billion from Binance in a breach that blockchain analysis firm Elliptic says is being attributed to North Korea. Binance says it has since replenished virtually all the stolen assets, according to The Block, and it is working to reopen more token withdrawals. If you kee…
 
 
-### [Apple Will Scan Public iCloud Links in iOS 27.3: What to Do](https://techtrendspins.blogspot.com/2026/11/apple-will-scan-public-icloud-links-in.html) — _Techtrendspins_
-Apple will start monitoring public iCloud links for harmful content with the 27.3 release of its operating systems, according to ZDNET. If you have ever shared a photo album or a file with the “Anyone with the link” setting, that link now counts as public and can be checked. Accounts that break A…
+### [Do AI Deal Finders Beat Black Friday Prices? Check This First](https://techtrendspins.blogspot.com/2026/11/do-ai-deal-finders-beat-black-friday.html) — _Techtrendspins_
+Early Black Friday sales are already running, and a fresh test from Android Police shows that asking an AI chatbot for the lowest price can save you hundreds of dollars or send you to a wrong listing. Reviewer Haroun Adamu gave the free versions of ChatGPT and Gemini the same four-gadget list. On…
 
 
-### [Salmonella Outbreak Over: How to Handle Sprouts Safely](https://healthyeatsboard.blogspot.com/2026/11/salmonella-outbreak-over-how-to-handle.html) — _Healthyeatsboard_
-The CDC and FDA have declared an end to a Salmonella outbreak linked to broccoli sprouts and microgreens. It sickened 34 people in six states, and three of them needed hospital care. The affected sprouts are past their dates and off the shelves, but the story is still useful for families. Sprouts…
+### [What Happens When You Freeze Cheese, Milk and Cream Cheese](https://healthyeatsboard.blogspot.com/2026/11/what-happens-when-you-freeze-cheese.html) — _Healthyeatsboard_
+You bought the big block of cheddar because it was cheaper. Now half of it is sitting in the fridge with a use-by date coming up, next to a carton of milk you won't finish before your trip and a tub of cream cheese you opened for one bagel. Binning any of it feels like throwing money away. The sh…
 
 
-### [Run/Walk Training: From 5K to Marathon With Walk Breaks](https://fitnesshomejournal.blogspot.com/2026/11/runwalk-training-from-5k-to-marathon.html) — _Fitnesshomejournal_
-You do not have to run nonstop to finish a race. Runner's World has published run/walk guides for the 5K, 10K, half marathon and marathon. Each one builds endurance with planned walk intervals, and each comes with beginner, intermediate and advanced options. For adults fitting training around wor…
+### [One Set of Dumbbells: A 16-Minute Leg Workout and Shoulder Day](https://fitnesshomejournal.blogspot.com/2026/11/one-set-of-dumbbells-16-minute-leg.html) — _Fitnesshomejournal_
+You do not need a rack of equipment to train your whole body at home. Fit&Well contributor Sam Rider, a REPS Level 3 personal trainer, uses a 16-minute circuit with a single dumbbell to work the legs, glutes and core. Men's Health pairs it well with a dumbbell-only shoulder session from trainer C…
 
 
-### [How to Stop Condensation on Windows Inside Your Home](https://greenplanetpins.blogspot.com/2026/11/how-to-stop-condensation-on-windows.html) — _Greenplanetpins_
-You open the curtains on a cold morning and the glass is streaming. Water pools on the sill, the frame edges go black, and you wipe it all down again tomorrow. This happens in rented flats and owned houses, with single or double glazing. The short answer: windows run wet when indoor air holds mor…
+### [Attic Insulation: Cellulose vs Spray Foam and When to Vent](https://greenplanetpins.blogspot.com/2026/11/attic-insulation-cellulose-vs-spray.html) — _Greenplanetpins_
+If your attic is leaking heat, the fix you choose matters as much as the fact that you act. According to Green Building Advisor (GBA), building scientist Joseph Lstiburek calls a vented attic with insulation on an air-sealed floor one of the most underappreciated assemblies in building science. H…
 
 
 
